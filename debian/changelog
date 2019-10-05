@@ -1,3 +1,13 @@
+pve-edk2-firmware (2.20191005-1) pve; urgency=medium
+
+  * update sources to upstream edk2-stable201908 tag
+
+  * add OVMF patch to enable IGD passthrough with output to external displays
+
+  * add OVMF patch to support booting macOS virtual machines
+
+ -- Nick Chevsky <nchevsky@users.noreply.github.com>  Sat, 5 Oct 2019 12:25:17 -0400
+
 pve-edk2-firmware (2.20190614-1) pve; urgency=medium
 
   * update sources to upstream edk2-stable201905 tag

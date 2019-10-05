@@ -1,3 +1,4 @@
 [submodule "edk2"]
+	branch = nchevsky
 	path = edk2
-	url = ../mirror_edk2
+	url = https://github.com/nchevsky/edk2.git
